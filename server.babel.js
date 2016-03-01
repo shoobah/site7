@@ -63,4 +63,5 @@ app.use(_bodyParser2.default.json());
 
 // eventService.liveUpdates(io);
 
+console.log('listening to ' + port);
 httpServer.listen(port);

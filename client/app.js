@@ -7,13 +7,13 @@ import { Router, Route } from 'react-router';
 
 import routes from '../universal/routes';
 import store from '../universal/store';
-import * as actions from '../universal/actions/PulseActions';
+//import * as actions from '../universal/actions/PulseActions';
 
 import Root from '../universal/containers/root';
 
-import '../style/pure.css';
-import '../style/main.styl';
-import '../style/spinner.styl';
+// import '../style/pure.css';
+// import '../style/main.styl';
+// import '../style/spinner.styl';
 
 
 ReactDOM.render(

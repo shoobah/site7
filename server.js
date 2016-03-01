@@ -44,4 +44,5 @@ app.use(bodyParser.json());
 
 // eventService.liveUpdates(io);
 
+console.log('listening to port ' + port)
 httpServer.listen(port);
